@@ -1,4 +1,4 @@
--- discord.gg/tboyroblox
+-- discord.com/invite/hcMWhXZV4R
 
 
 shared.LoaderTitle = "Đăng Ký Kênh KaiTheGamer ";
